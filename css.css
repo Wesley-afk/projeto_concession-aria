@@ -1,0 +1,23 @@
+.cabeçalho {
+    display: flex;
+    gap: 5px;
+    margin: 0px;
+    background-color: rgb(50, 40, 32);
+    margin: -10px;
+}
+
+.cabeçalho h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 5px;
+    margin-left: 42%;
+}
+
+.opção ul {
+    display: flex;
+    margin-top: 155px;
+    margin-left: 37%;
+}
+
+.opção li
