@@ -2,7 +2,7 @@
     display: flex;
     gap: 5px;
     margin: 0px;
-    background-color: rgb(50, 40, 32);
+    background-color: rgb(41, 180, 166);
     margin: -10px;
 }
 
@@ -15,9 +15,22 @@
 }
 
 .opção ul {
+    gap: 15px;
     display: flex;
     margin-top: 155px;
-    margin-left: 37%;
+    margin-left: 31%;
+    list-style: none;
 }
 
-.opção li
+.opção button{
+    background-color: rgb(65, 162, 177);
+    color: white;
+    border-style:groove;
+    height: 50px;
+    width: 100px;
+}
+
+.opção button:hover{
+    background-color: rgb(50, 92, 98);
+    transform: scale(1.1);
+}
