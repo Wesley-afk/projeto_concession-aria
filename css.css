@@ -1,9 +1,7 @@
 .cabeçalho {
     display: flex;
-    gap: 5px;
-    margin: 0px;
-    background-color: rgb(41, 180, 166);
-    margin: -10px;
+    background-color: rgb(24, 24, 24);
+    margin: -10px; 
 }
 
 .cabeçalho h2 {
@@ -11,7 +9,7 @@
     font-size: 18px;
     color: white;
     margin-bottom: 5px;
-    margin-left: 42%;
+    margin-left: 5%;
 }
 
 .opção ul {
@@ -33,4 +31,15 @@
 .opção button:hover{
     background-color: rgb(50, 92, 98);
     transform: scale(1.1);
+}
+
+.img_carro{
+    height: 100px;
+    width: auto;
+    margin-top: 75px;
+    margin-left: 40px;
+}
+
+.img_carro button{
+    margin-right: 15px;
 }
