@@ -1,6 +1,9 @@
 var compra = () => {
     window.open("compra.html", "_blank");
-    alert("Deseja comprar esse carro?");
+}
+
+var operação_compra = () => {
+    window.alert("Deseja comprar esse carro?");
 }
 
 var alugar = () => {
